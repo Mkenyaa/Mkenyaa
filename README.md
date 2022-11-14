@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mkenyaa
-- 👀 I’m interested in machine learning,API's, Artificial inteeligence and data science.
-- 🌱 I’m currently learning data sciene as a whole using python and R as the main programming languages.
-- 💞️ I’m looking to collaborate on data science projects and machine learning.
+- 👀 I’m interested in machine learning,API's, Artificial intelligence and Data science.
+- 🌱 I’m currently learning data science as a whole using Python and R as the main programming languages.
+- 💞️ I’m looking to collaborate on Data Science projects and Machine Learning.
 - 📫 Feel free to reach me through @mkenyaalexs on twitter.
 
 <!---
