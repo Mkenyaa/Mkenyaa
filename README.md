@@ -1,6 +1,6 @@
 # Hi there, I'm Alex Wambugu G. 👋
 
-I'm a professional data scientist with a passion for machine learning, APIs, artificial intelligence, and data science. Currently, I'm focused on honing my skills in the field of data science, leveraging Python as my primary programming language.
+I'm a professional Data Scientist with a passion for machine learning, Artificial Intelligence, and Data Science. Currently, I'm focused on honing my skills in the field of Data Science, leveraging Python as my primary programming language.
 
 ## About Me
 
