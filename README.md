@@ -5,7 +5,7 @@ I'm a professional Data Scientist with a passion for machine learning, Artificia
 ## About Me
 
 - 👀 I'm deeply interested in exploring the endless possibilities that machine learning and AI offer.
-- 🌱 I'm continuously learning and expanding my knowledge in the realm of data science.
+- 🌱 I'm continuously learning and expanding my knowledge in the realm of Data science.
 - 💞️ I'm eager to collaborate on exciting data science projects and machine learning endeavors.
 - 
 ## My Stack
